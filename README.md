@@ -1,4 +1,4 @@
-## Countries' corruption indexes analysis
+## Countries' Corruption Indexes Analysis
 
 This is a project using python analyzing the relationship between countries' corruption indexes and its market cap to gdp.
 
